@@ -7,7 +7,7 @@ h1{
     font-size: 50px;
 }
 .orenge{color: orange;}
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 80px;
 }
