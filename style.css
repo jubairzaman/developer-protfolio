@@ -57,3 +57,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#border1{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue,cyan) ;
+    border-image-slice: 1;
+}
+#border2{
+    border-left: 7px solid;
+    border-image:linear-gradient(orange,tomato) ;
+    border-image-slice: 1;
+
+}
+footer p {
+    text-align: center;
+}
